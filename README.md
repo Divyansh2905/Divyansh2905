@@ -3,16 +3,16 @@
 🎓 BCA Student at The Heritage Academy, Kolkata  
 💻 Tech Explorer | Frontend Developer | Python Enthusiast  
 🎨 Ex-Graphic Design Intern | Canva Expert  
-📈 Learning Python, DSA, Web Development  
-🌱 Actively seeking internship opportunities (Summer 2025)
+📈 Skilled in Python, Java, DSA, Web Development, Machine Learning  
+🌱 Actively seeking internship opportunities
 
 ---
 
 ## 🧠 Skills & Tools
 
-- **Languages:** Java, Python, C, HTML, CSS  
+- **Languages:** Java, Python, C, HTML, CSS, PHP 
 - **Tools:** Canva, Git, GitHub, VS Code  
-- **Interests:** Web Development, Graphic Design, Data Science (beginner)
+- **Interests:** Machine Learning, AI, Web Development, Graphic Design
 
 ---
 
@@ -31,8 +31,8 @@
 ---
 
 ## 🔍 Currently Working On
-- Practicing **Python programming** and solving DSA questions in C
-- Planning to build **mini Python-based projects** to strengthen logic
+- Machine Learning
+- Artificial Intelligence
 
 ---
 

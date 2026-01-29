@@ -23,10 +23,20 @@
 > Includes UI and basic login functionality using HTML/CSS + PHP (adapted)  
 > Login code sourced online, Java logic & design done by me
 
-### 🔹 [MAD-WEB-SERVICES](https://github.com/Divyansh2905/mad-web-services)
+### 🔹 [Mad-Web-Services](https://github.com/Divyansh2905/mad-web-services)
 > College group project – designed a static company website with services and portfolios  
 > Built and styled my personal portfolio section  
 > Fully HTML/CSS based, no backend
+
+### 🔹 [HealthHub](https://github.com/Divyansh2905/HealthHub)
+> Winner of HackHeritage 3.0 – bridges healthcare gaps via real-time disease mapping and telemedicine
+> Features role-based dashboards for NGOs/Doctors and secure video consultations using WebRTC
+> Built with React (Vite), Firebase, and Leaflet for interactive geospatial analytics
+
+### 🔹 [Student Performance Prediction](https://github.com/Divyansh2905/Student_Performance_Prediction)
+> ML-powered web app predicting student GPA (0–10) based on academic habits and parental support
+> Implemented full pipeline: Data cleaning, EDA, and training Random Forest/Linear Regression models
+> Integrated the best-performing model into a Django framework to serve live predictions
 
 ---
 

@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Divyansh!
 
 🎓 BCA Student at The Heritage Academy, Kolkata  
-💻 Tech Explorer | Frontend Developer | Python Enthusiast  
-🎨 Ex-Graphic Design Intern | Canva Expert  
+💻 Tech Explorer | Web Developer | Python Enthusiast   
 📈 Skilled in Python, Java, DSA, Web Development, Machine Learning  
 🌱 Actively seeking internship opportunities
 
@@ -10,8 +9,8 @@
 
 ## 🧠 Skills & Tools
 
-- **Languages:** Java, Python, C, HTML, CSS, PHP 
-- **Tools:** Canva, Git, GitHub, VS Code  
+- **Languages:** Java, Python, C, HTML, CSS, PHP, React
+- **Tools:** Git, GitHub, VS Code, Jupyter  
 - **Interests:** Machine Learning, AI, Web Development, Graphic Design
 
 ---
@@ -37,6 +36,11 @@
 > ML-powered web app predicting student GPA (0–10) based on academic habits and parental support  
 > Implemented full pipeline: Data cleaning, EDA, and training Random Forest/Linear Regression models  
 > Integrated the best-performing model into a Django framework to serve live predictions
+
+### 🔹 [ModelForge](https://github.com/Divyansh2905/ModelForge)
+> Achieved 3rd place by predicting CPU telemetry with a 2.23 RMSE using a hybrid LightGBM architecture.
+> Recovered missing kernel data via algebraic imputation and managed high-variance system states with targeted micro-models.
+> Applied log-transformations and boundary clipping to ensure predictions stayed within physical operating limits.
 
 ---
 

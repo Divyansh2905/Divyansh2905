@@ -17,15 +17,10 @@
 
 ## 💼 Projects
 
-### 🔹 [Ekhata – School Accounting Project](https://github.com/Divyansh2905/ekhata-school-project)
-> Created in Class 11 – accepts journal entries via Java and generates trial balance  
-> Includes UI and basic login functionality using HTML/CSS + PHP (adapted)  
-> Login code sourced online, Java logic & design done by me
-
-### 🔹 [Mad-Web-Services](https://github.com/Divyansh2905/mad-web-services)
-> College group project – designed a static company website with services and portfolios  
-> Built and styled my personal portfolio section  
-> Fully HTML/CSS based, no backend
+### 🔹 [ModelForge](https://github.com/Divyansh2905/ModelForge)
+> Achieved 3rd place by predicting CPU telemetry with a 2.23 RMSE using a hybrid LightGBM architecture.
+> Recovered missing kernel data via algebraic imputation and managed high-variance system states with targeted micro-models.
+> Applied log-transformations and boundary clipping to ensure predictions stayed within physical operating limits.
 
 ### 🔹 [HealthHub](https://github.com/Divyansh2905/HealthHub)
 > Winner of HackHeritage 3.0 – bridges healthcare gaps via real-time disease mapping and telemedicine  
@@ -37,10 +32,20 @@
 > Implemented full pipeline: Data cleaning, EDA, and training Random Forest/Linear Regression models  
 > Integrated the best-performing model into a Django framework to serve live predictions
 
-### 🔹 [ModelForge](https://github.com/Divyansh2905/ModelForge)
-> Achieved 3rd place by predicting CPU telemetry with a 2.23 RMSE using a hybrid LightGBM architecture.
-> Recovered missing kernel data via algebraic imputation and managed high-variance system states with targeted micro-models.
-> Applied log-transformations and boundary clipping to ensure predictions stayed within physical operating limits.
+### 🔹 [Employee Management System](https://github.com/Divyansh2905/employee-management-system)
+> Employee Management System developed using Java, JSP, Servlets, JDBC, and MySQL as a part of college assignment.  
+> Implemented role-based login and employee CRUD operations.  
+> Added payslip generation, email notifications, and file upload features.  
+
+### 🔹 [Mad-Web-Services](https://github.com/Divyansh2905/mad-web-services)
+> College group project – designed a static company website with services and portfolios  
+> Built and styled my personal portfolio section  
+> Fully HTML/CSS based, no backend
+
+### 🔹 [Ekhata – School Accounting Project](https://github.com/Divyansh2905/ekhata-school-project)
+> Created in Class 11 – accepts journal entries via Java and generates trial balance  
+> Includes UI and basic login functionality using HTML/CSS + PHP (adapted)  
+> Login code sourced online, Java logic & design done by me
 
 ---
 

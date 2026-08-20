@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divyansh!
 
-🎓 BCA Student at The Heritage Academy, Kolkata  
+🎓 MCA Student at Kalinga Institute of Industrial Technology, Bhubaneswar   
 💻 Tech Explorer | Web Developer | Python Enthusiast   
 📈 Skilled in Python, Java, DSA, Web Development, Machine Learning  
 🌱 Actively seeking internship opportunities
